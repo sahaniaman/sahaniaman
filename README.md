@@ -2,15 +2,14 @@
 
 # Aman Sahani
 
-**Software Engineer — C++ · Systems & Defense-Tech R&D**
+**Software Engineer - C++ · Systems & Defense-Tech R&D**
 
-R&D Associate focused on software development, systems programming, and defense-technology research. Founder @ [DPlus Creator](https://digitruce.com)
+R&D Associate focused on software development, systems programming, and defense-technology research. Founder @ [DPlus Creator](https://dpluscreator.com/)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
 
 </div>
 
@@ -22,4 +21,4 @@ R&D Associate focused on software development, systems programming, and defense-
 - Cybersecurity and secure infrastructure (Linux, Docker, cloud deployment)
 
 ### Connect
-[digitruce.com](https://digitruce.com) — open to defense-tech and systems engineering collaborations.
+[digitruce.com](https://digitruce.com) - open to defense-tech and systems engineering collaborations.
