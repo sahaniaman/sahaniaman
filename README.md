@@ -1,24 +1,29 @@
-<div align="center">
-
 # Aman Sahani
 
-**Software Engineer - C++ · Systems & Defense-Tech R&D**
+**Software Developer & R&D Associate**  
+Secure Systems · Automation · Applied AI · Building C++/Linux projects
 
-R&D Associate focused on software development, systems programming, and defense-technology research. Founder @ [DPlus Creator](https://dpluscreator.com/)
+I build practical software systems and technical prototypes across secure infrastructure, automation, web products, and applied AI. My public portfolio is evolving toward reproducible systems engineering work with clear documentation, testable behavior, and security-aware design.
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## Current focus
 
-</div>
+- C++ and Linux-based systems utilities
+- Secure software engineering and infrastructure automation
+- Applied AI prototypes with measurable, documented limitations
+- Collaborative product development and open-source contribution
 
----
+## Selected work
 
-### Focus
-- Software development in C++ — systems, performance-critical, and applied engineering
-- Defense-technology research and prototyping
-- Cybersecurity and secure infrastructure (Linux, Docker, cloud deployment)
+- **FakeBuster** — an applied ML and browser-extension prototype for evaluating potentially misleading content.
+- **ecom-techora** — a TypeScript product platform demonstrating full-stack development and collaborative delivery.
+- **Plant-Care-System** — a full-stack, team-built plant-care application with frontend and backend components.
+- **Noctuae_AMUHACKS4.0** — a hackathon prototype retained as evidence of rapid team-based product development.
 
-### Connect
-[digitruce.com](https://digitruce.com) - open to defense-tech and systems engineering collaborations.
+## Engineering principles
+
+I value clear problem definitions, reproducible setup, least-privilege handling of secrets, testable behavior, and transparent technical limitations.
+
+## Connect
+
+- Website: [digitruce.com](https://digitruce.com)
+- Collaboration: Open to focused work in secure systems, automation, applied AI, and developer tooling.
