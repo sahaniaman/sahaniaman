@@ -1,29 +1,33 @@
 # Aman Sahani
 
 **Software Developer & R&D Associate**  
-Secure Systems · Automation · Applied AI · Building C++/Linux projects
+C++ · Embedded Systems · Software Development · Research
 
-I build practical software systems and technical prototypes across secure infrastructure, automation, web products, and applied AI. My public portfolio is evolving toward reproducible systems engineering work with clear documentation, testable behavior, and security-aware design.
+I develop software projects and research-oriented prototypes, with a growing focus on C++, embedded systems, and Linux-based engineering. My project experience includes full-stack applications and applied machine learning. I value practical implementations, reproducible results, security-aware design, and clear technical limitations.
 
-## Current focus
+## Focus areas
 
-- C++ and Linux-based systems utilities
-- Secure software engineering and infrastructure automation
-- Applied AI prototypes with measurable, documented limitations
-- Collaborative product development and open-source contribution
+- **C++ and systems programming** — a development focus, including Linux tools and performance-conscious code
+- **Embedded systems** — firmware, hardware/software interfaces, and reliable system design
+- **Software development** — architecture, APIs, databases, and collaborative development
+- **Research and prototyping** — experiments, evidence-based evaluation, and documenting results
 
-## Selected work
+## Selected projects
 
-- **FakeBuster** — an applied ML and browser-extension prototype for evaluating potentially misleading content.
-- **ecom-techora** — a TypeScript product platform demonstrating full-stack development and collaborative delivery.
-- **Plant-Care-System** — a full-stack, team-built plant-care application with frontend and backend components.
-- **Noctuae_AMUHACKS4.0** — a hackathon prototype retained as evidence of rapid team-based product development.
+- **[ecom-techora](https://github.com/sahaniaman/ecom-techora)** — collaborative e-commerce application using Next.js, TypeScript, MongoDB, and Clerk.
+- **[Plant-Care-System](https://github.com/sahaniaman/Plant-Care-System)** — team-built plant-disease classification prototype using React, Flask, and TensorFlow/Keras.
+- **[FakeBuster](https://github.com/sahaniaman/FakeBuster)** — experimental browser-extension and backend project exploring review and website analysis; model evaluation and integrations are not production-validated.
 
 ## Engineering principles
 
-I value clear problem definitions, reproducible setup, least-privilege handling of secrets, testable behavior, and transparent technical limitations.
+- Explain problems, architecture, constraints, and trade-offs.
+- Make projects reproducible, testable, and accurately documented.
+- Distinguish implemented functionality from simulations and future work.
+- Handle credentials responsibly and credit collaborators.
+
+My next portfolio priority is to publish well-documented C++ and embedded-systems projects with demonstrable results.
 
 ## Connect
 
 - Website: [digitruce.com](https://digitruce.com)
-- Collaboration: Open to focused work in secure systems, automation, applied AI, and developer tooling.
+- GitHub: [sahaniaman](https://github.com/sahaniaman)
